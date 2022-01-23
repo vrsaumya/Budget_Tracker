@@ -1,0 +1,19 @@
+{
+  "name": "budget_tracker",
+  "version": "1.0.0",
+  "description": "an application to keep tab on the expenditure",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrsaumya/Budget_Tracker.git"
+  },
+  "author": "saumya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vrsaumya/Budget_Tracker/issues"
+  },
+  "homepage": "https://github.com/vrsaumya/Budget_Tracker#readme"
+}
