@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vrsaumya/Budget_Tracker/issues"
   },
-  "homepage": "https://github.com/vrsaumya/Budget_Tracker#readme"
+  "homepage": "https://github.com/vrsaumya/Budget_Tracker#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
